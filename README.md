@@ -1,5 +1,5 @@
 # detours-example
-API hooking example project using Detours
+API hooking example project using Microsoft Detours
 # Table ofContents
 + [Install](#Install)
 + [Usage](#Usage)
